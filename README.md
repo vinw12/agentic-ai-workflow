@@ -72,6 +72,10 @@ make docker-prune   # prune (permanently delete) all existing data in Docker: co
 
 Documentation is available here: [Documentation](./doc/)
 
+## DEBUG
+
+TBD
+
 ## Support
 
 To get community support, go to the official [Issues Page](https://github.com/FullStackWithLawrence/agentic-ai-workflow/issues) for this project.
